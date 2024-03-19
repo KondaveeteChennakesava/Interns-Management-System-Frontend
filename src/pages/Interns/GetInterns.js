@@ -110,13 +110,13 @@ const GetIntern = () => {
         width: 100,
       },
       {
-        label: "Action",
+        label: "EDIT",
         field: "edit",
         sort: "disabled",
         width: 100,
       },
       {
-        label: "Action",
+        label: "DELETE",
         field: "delete",
         sort: "disabled",
         width: 150,
